@@ -26,7 +26,7 @@ Classify iris flowers into **Setosa**, **Versicolor**, and **Virginica** based o
 - Trained a **Decision Tree Classifier**  
 
 ###  Libraries Used:
-`pandas`, `seaborn`, `matplotlib`, `sklearn`
+`pandas`, `matplotlib`, `sklearn`
 
  **Demo**: [Click to Watch](https://youtu.be/TpT87xsdqU0)
 
@@ -42,7 +42,7 @@ Used machine learning to predict car prices based on features like fuel type, tr
 - Trained a **Random Forest Regressor**  
 
 ###  Libraries Used:
-`pandas`, `sklearn`, `seaborn`, `matplotlib`
+`pandas`, `sklearn`, `matplotlib`
 
  **Demo**: [Click to Watch](https://youtu.be/kwjrlFj3rEs)
 
