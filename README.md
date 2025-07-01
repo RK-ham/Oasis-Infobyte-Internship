@@ -2,7 +2,6 @@
 
 ** Intern**: Roshini K  
 ** Internship Mode**: Virtual (1 Month)  
-** Organization**: Oasis Infobyte 
 ** Domain**: Data Science  
 
 ---
